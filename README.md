@@ -1,3 +1,4 @@
-# Strapi application
+# Betalist Backend
 
-A quick description of your strapi application
+
+Deploy Link : https://betalist-backend-api.herokuapp.com/admin/
